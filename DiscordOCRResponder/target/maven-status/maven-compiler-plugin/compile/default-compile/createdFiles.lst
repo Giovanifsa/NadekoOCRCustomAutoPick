@@ -1,0 +1,4 @@
+bot\discord\DiscordBot.class
+bot\discord\JDAController.class
+bot\discord\JDAListenerAutoPickBot.class
+bot\discord\JDAListenerGeneralGuildChat.class
